@@ -52,5 +52,5 @@ Project Organization
 
 
 --------
-#### AUthor 
+#### Author 
 Ibrahim Mbaziira
