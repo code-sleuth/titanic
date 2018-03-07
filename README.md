@@ -1,4 +1,4 @@
-titanic
+TITANIC
 ==============================
 
 titanic data science challenge
